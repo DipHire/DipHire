@@ -1,4 +1,13 @@
 ![DipHire](DipHire.png)
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DipHire/DipHire/main/coding.gif" />
+</p>
+
+
+
+
 <!--
 **DipHire/DipHire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
